@@ -1,0 +1,50 @@
+/* add your CSS here */
+body {
+    font-family: "Times New Roman", Times, serif; 
+}
+
+h3 {
+    font-size: 30px; 
+    margin-top: 0; 
+}
+
+.description {
+    width: 300px; 
+    border-style: groove; 
+    padding: 10px 20px;  
+    border-radius: 8px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75); 
+    background: black;
+    color: white; 
+}
+
+.information {
+    border-style: groove; 
+    padding: 10px;
+    border-radius: 8px;
+    background: white; 
+    color: black; 
+}
+
+.interesting-fact {
+    font-style: italic; 
+    margin-top: 0; 
+}
+
+img {
+    border-radius: 8px;
+    margin-bottom: 10px; 
+}
+
+ul {
+    font-style: italic; 
+    list-style-type: none; 
+    padding: 0; 
+}
+
+span {
+    font-style: normal; 
+    font-weight: bold; 
+}
